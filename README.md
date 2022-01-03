@@ -2,6 +2,8 @@
 
 This is a small Arduino-based project used to test the connection with NodeMCU V3 ESP8266 modules.
 
+Full montage intructions available on : <https://create.arduino.cc/projecthub/lucas-gauer/overkill-but-didactic-covid-epidemic-display-6743dd>
+
 It displays COVID epidemic indicators on a LCD display, and flashes LEDs for each contamination, hospital death or discharge (flashing frequency is based on the mean time between each event based on daily count).
 
 1.  The NodeMCU module is connected to Internet
